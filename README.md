@@ -34,4 +34,7 @@ This project is a **vehicle demonstration** built using Unreal Engine, featuring
 
 - Engage in air, land, and naval combat.  
 - Experience destructible environments.  
-- Battle against automated defense systems with unique behaviors.  
+- Battle against automated defense systems with unique behaviors.
+
+## Watch the video
+[![Watch the video](https://img.youtube.com/vi/8O-eXtR-qfg/0.jpg)](https://youtu.be/8O-eXtR-qfg)
